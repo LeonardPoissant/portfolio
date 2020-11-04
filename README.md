@@ -1,2 +1,1 @@
-# portfolio
-my online resume
+# My Portfolio
